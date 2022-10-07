@@ -46,7 +46,7 @@
             </feature>
         </config-file>
 
-        <source-file src="src/android/DeviceModified.java" target-dir="src/org/apache/cordova/devicemodified" />
+        <source-file src="src/android/DeviceModified.java" target-dir="src/org/apache/cordova/device" />
     </platform>
 
     <!-- ios -->
