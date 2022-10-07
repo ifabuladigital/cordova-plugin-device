@@ -1,10 +1,10 @@
 {
-  "name": "cordova-plugin-device",
+  "name": "cordova-plugin-device-modified",
   "version": "2.1.1-dev",
   "description": "Cordova Device Plugin",
   "types": "./types/index.d.ts",
   "cordova": {
-    "id": "cordova-plugin-device",
+    "id": "cordova-plugin-device-modified",
     "platforms": [
       "android",
       "electron",
@@ -14,7 +14,7 @@
       "osx"
     ]
   },
-  "repository": "github:apache/cordova-plugin-device",
+  "repository": "github:ifabuladigital/cordova-plugin-device-modified",
   "bugs": "https://github.com/apache/cordova-plugin-device/issues",
   "keywords": [
     "cordova",
