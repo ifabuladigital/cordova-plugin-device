@@ -16,7 +16,7 @@
        specific language governing permissions and limitations
        under the License.
 */
-package org.apache.cordova.device;
+package org.apache.cordova.devicemodified;
 
 import java.util.TimeZone;
 
@@ -30,7 +30,7 @@ import org.json.JSONObject;
 
 import android.provider.Settings;
 
-public class Device extends CordovaPlugin {
+public class DeviceModified extends CordovaPlugin {
     public static final String TAG = "Device";
 
     public static String platform;                            // Device OS
@@ -43,7 +43,7 @@ public class Device extends CordovaPlugin {
     /**
      * Constructor.
      */
-    public Device() {
+    public DeviceModified() {
     }
 
     /**
