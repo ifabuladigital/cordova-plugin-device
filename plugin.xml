@@ -42,11 +42,11 @@
     <platform name="android">
         <config-file target="res/xml/config.xml" parent="/*">
             <feature name="Device" >
-                <param name="android-package" value="org.apache.cordova.device.DeviceModified"/>
+                <param name="android-package" value="org.apache.cordova.devicemodified.DeviceModified"/>
             </feature>
         </config-file>
 
-        <source-file src="src/android/DeviceModified.java" target-dir="src/org/apache/cordova/device" />
+        <source-file src="src/android/DeviceModified.java" target-dir="src/org/apache/cordova/devicemodified" />
     </platform>
 
     <!-- ios -->
